@@ -37,7 +37,7 @@ A smart, modern web platform that bridges the gap between **farmers** and **orga
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/shravaniBeni/Hire-labor-main--1-.git
+   git clone https://github.com/shravaniBeni/Labor-hiring-platform.git
    cd hire-labor
    ```
 
